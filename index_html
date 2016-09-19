@@ -9,4 +9,42 @@
 <Head>
 
 <meta charset="UTF-8">
-<meta content="yimmi guzman" name="author"/>
+<LINK rel="stylesheet" href="style/index_style.cc">
+</haad>
+<body>
+	<header>
+		<div class="contenedor" id="uno">
+			<img clas="icon" src="pictures/icon1.png">
+			<p class="texto">home</h>
+
+		</div>
+
+		<<div class="contenedor" id="dos">
+			<img clas="icon" src="pictures/icon2.png">
+			<p class="texto">Página</h>
+			</div>
+
+		<div class="contenedor" id="tres">
+			<img clas="icon" src="pictures/icon3.png">
+			<p class="texto">Google +</h>
+			</div>
+
+		<div class="contenedor" id="cuatro">
+			<img clas="icon" src="pictures/icon4.png">
+			<p class="texto">Apple</h>
+		</div>
+
+		<div class="contenedor" id="cinco">
+			<img clas="icon" src="pictures/icon5.png">
+			<p class="texto">Html 5</h>
+			</div>	
+
+		<div class="contenedor" id="seis">
+			<img clas="icon" src="pictures/icon6.png">
+			<p class="texto">Correo</h>
+			</div>	
+
+</div>
+	</header>
+	</body>
+	</html>
